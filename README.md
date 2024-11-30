@@ -46,15 +46,20 @@ For all visualizations, see the [Results/](Results/) folder.
 
 ## 🚀 **Getting Started**
 
-### 1️⃣ Clone the Repository
+To get started, follow these steps:
+
 ```bash
+# 1️⃣ Clone the Repository
 git clone https://github.com/WaelAlbakri/Global-Diabetes-Analysis.git
 cd Global-Diabetes-Analysis
 
-### 2️⃣ Install Dependencies
+# 2️⃣ Install Dependencies
 pip install -r requirements.txt
-### 3️⃣ Run the Analysis
+
+# 3️⃣ Run the Analysis
 python main.py
+
+---
 
 📝 Credits
 Data Source: This project uses diabetes prevalence data from NCD-RisC.
