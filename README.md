@@ -58,9 +58,12 @@ pip install -r requirements.txt
 
 # 3️⃣ Run the Analysis
 python main.py
+```
 
----
+## 📝 Credits
 
-📝 Credits
-Data Source: This project uses diabetes prevalence data from NCD-RisC.
-Citation: NCD Risk Factor Collaboration (NCD-RisC). Global prevalence of diabetes.
+- **Data Source**: This project uses diabetes prevalence data from [NCD Risk Factor Collaboration (NCD-RisC)](https://ncdrisc.org/data-downloads-diabetes.html).
+- **Citation**: NCD Risk Factor Collaboration (NCD-RisC). Global prevalence of diabetes.
+
+
+
